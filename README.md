@@ -101,3 +101,5 @@ Os elementos visuais (plantas, ícones, cerca) e sonoros usados são do banco de
 ## 📄 Licença
 
 Projeto pessoal, desenvolvido para fins de aprendizado como parte da Saga MundoPessoal (100 projetos em Python).
+
+**Todos os direitos reservados.** Veja o arquivo [LICENSE](LICENSE).
